@@ -1,0 +1,3 @@
+# BG-TOOLSET-Custom-DNS-Tutorial
+Tutorial for BG TOOLSET DNS Access
+#OUTDATED, DO NOT USE. THIS IS A ARCHIVE
